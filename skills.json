@@ -1,0 +1,13 @@
+{
+  "categories": [
+    { "name": "Mechanical Design", "skills": ["CAD & 3D Modeling", "Mechanical Design & Simulation"] },
+    { "name": "Electrical & Electronics", "skills": ["Circuit Design", "PCB Design", "Sensors & Actuators"] },
+    { "name": "Arduino & Embedded", "skills": ["Arduino / ESP32 / Raspberry Pi", "Embedded Systems & Communication"] },
+    { "name": "Programming & Software", "skills": ["C / C++ / Python / JavaScript", "Web & Backend Development"] },
+    { "name": "Robotics & Control", "skills": ["Robotics & Kinematics", "PID & Motor Control", "ROS & Simulation"] },
+    { "name": "AI", "skills": ["AI / ML / DL", "LLMs & Agents"] },
+    { "name": "Automation", "skills": ["PLC / HMI / SCADA", "Industrial Automation & Control"] },
+    { "name": "Manufacturing", "skills": ["CNC / 3D Printing", "Fabrication & Electronics"] },
+    { "name": "Other", "skills": ["System Integration & Prototyping", "Project Management & Research"] }
+  ]
+}
