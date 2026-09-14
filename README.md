@@ -1,8 +1,10 @@
 # Maharat — فورم مهارات الفريق
 
+**Live:** https://maharat-opal.vercel.app/ — an Arabic (RTL) team-skills form: members pick skills and levels, results update live for everyone. In production.
+
 فورم تفاعلي بالعربي (RTL) بيجمع مهارات فريق تقني: كل عضو يختار مهاراته من فئات جاهزة (أو يكتب مهارات حرة)، يحدد مستواه في كل مهارة، ونتائجه تظهر فورًا لكل الزوار مع تحديث لحظي كل ثواني.
 
-**شغّال على:** https://maharat-opal.vercel.app/
+![App screenshot](docs/screenshot.png)
 
 ## المميزات
 
